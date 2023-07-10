@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mardown-previewer/static/css/main.46c353e1.css",
+    "main.js": "/Mardown-previewer/static/js/main.e1f052a6.js",
+    "static/js/787.a3c8b4eb.chunk.js": "/Mardown-previewer/static/js/787.a3c8b4eb.chunk.js",
+    "index.html": "/Mardown-previewer/index.html",
+    "main.46c353e1.css.map": "/Mardown-previewer/static/css/main.46c353e1.css.map",
+    "main.e1f052a6.js.map": "/Mardown-previewer/static/js/main.e1f052a6.js.map",
+    "787.a3c8b4eb.chunk.js.map": "/Mardown-previewer/static/js/787.a3c8b4eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46c353e1.css",
+    "static/js/main.e1f052a6.js"
+  ]
+}
