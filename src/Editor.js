@@ -19,7 +19,7 @@ function Editor() {
             <FontAwesomeIcon icon={faFreeCodeCamp} /> Editor
           </Form.Label>
 
-          <Form.Control
+          <Form.Control rows={10}
             value={text}
             id="editor"
             onChange={handleTextChange}

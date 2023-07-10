@@ -6,7 +6,7 @@ import { MyContext } from "./MyContext";
 import Markdown from "marked-react";
 
 function Previewer() {
-  const { text, setText } = useContext(MyContext);
+  const { text } = useContext(MyContext);
 
   return (
     <Container className="m-5 w-50">
